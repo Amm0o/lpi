@@ -1,5 +1,5 @@
 #include<iostream>
-#include<fcntl.h>
+#inrclude<fcntl.h>
 #include<unistd.h>
 #include<cstring>
 
